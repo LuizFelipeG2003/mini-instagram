@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+	background: darkgray;
+}
+.nome {
+	text-decoration: underline;
+}
+img {
+	width: 150px;
+}
+header {
+	background: blue;
+}
+section {
+	background: yellow;
+}
+footer {
+	background: black;
+	color: white;
+}
+.logo {
+	width: 120px;
+}
+.primeiro {
+	width: 350px;
+}
+.segundo {
+	width: 350px;
+}
+.terceiro {
+	width: 300px;
+}
+.quarto {
+	width: 300px;
+}
+.quinto {
+	width: 300px;
+}
